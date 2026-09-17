@@ -7,12 +7,14 @@
   <Folder Name="/src/Modules/" />
   <Folder Name="/src/Modules/Auth/">
     <Project Path="src/Modules/Auth/Auth.Application/Auth.Application.csproj" Id="d7bc6652-8efc-483e-ab66-a251f6658a41" />
+    <Project Path="src/Modules/Auth/Auth.Contracts/Auth.Contracts.csproj" />
     <Project Path="src/Modules/Auth/Auth.Domain/Auth.Domain.csproj" Id="fffc7bb6-0c1d-48e0-ae2d-400c7e251a90" />
     <Project Path="src/Modules/Auth/Auth.Infrastructure/Auth.Infrastructure.csproj" Id="487b8105-263b-422e-b6eb-bca6da1f4319" />
     <Project Path="src/Modules/Auth/Auth.Presentation/Auth.Presentation.csproj" Id="640e318f-f158-4f44-a7ea-159210218a75" />
   </Folder>
   <Folder Name="/src/Modules/BaseModule/">
     <Project Path="src/Modules/BaseModule/BaseModule.Application/BaseModule.Application.csproj" />
+    <Project Path="src/Modules/BaseModule/BaseModule.Contracts/BaseModule.Contracts.csproj" />
     <Project Path="src/Modules/BaseModule/BaseModule.Domain/BaseModule.Domain.csproj" Id="5b059940-54b4-4c4c-9031-8b441a4480fe" />
     <Project Path="src/Modules/BaseModule/BaseModule.Infrastructure/BaseModule.Infrastructure.csproj" Id="f243ca5b-d56e-4c14-ad88-c1b0994dc60d" />
     <Project Path="src/Modules/BaseModule/BaseModule.Presentation/BaseModule.Presentation.csproj" Id="5f5527ee-94d8-4af1-8d2d-deaa5934f1be" />
