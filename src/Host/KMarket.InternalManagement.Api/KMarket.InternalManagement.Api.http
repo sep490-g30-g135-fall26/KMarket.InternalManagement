@@ -1,0 +1,6 @@
+@KMarket.InternalManagement.Api_HostAddress = http://localhost:5063
+
+GET {{KMarket.InternalManagement.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
